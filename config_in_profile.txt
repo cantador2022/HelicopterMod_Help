@@ -4,7 +4,7 @@
 "Lift power": 1.5 , - air resistance level - for large helicopters there should be more
 "No power": 700 , - how much the helicopter loses traction compared to Full power
 "Full power": 750 , - the maximum height when the helicopter loses its thrust
-"side strength": 1.3 , - main rotor erosion
+"side strength": 3.0 , - main rotor erosion
 "power before": 1 , - power of the rear rotor
 "friction": 0.3 , - friction coefficient
 "Mass": 1500.81 , - weight
@@ -15,8 +15,8 @@
 "m povorot": 0.5 , - rotation speed
 ///if you turn off all damage, then the helicopter will no longer receive damage from bullets
 "Chassis": 0 , example 0-1- to the wheels or the stand damage (off damage 0)
-"Body": 0 , example 0-1- nose damage (off damage 0)
-"Engine": 1 , example 0-1- engine damage(off damage 0)
+"Body": 1 , example 0-1- nose damage (off damage 0)
+"Engine": 0 , example 0-1- engine damage(off damage 0)
 "Fuel": 0 , example 0-1 Fuel damage(off damage 0)
 "Rotor1": 0 , example 0-1 to the main rotor damage (off damage 0)
 "Rotor2": 0 , example 0-1- to the rotor 2 damage (off damage 0)
